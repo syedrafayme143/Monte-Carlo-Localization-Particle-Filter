@@ -50,8 +50,8 @@ Particle_Filter/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/particle-filter-localization.git
-cd particle-filter-localization
+git clone  https://github.com/syedrafayme143/Monte-Carlo-Localization-Particle-Filter.git
+cd Monte-Carlo-Localization-Particle-Filter
 ```
 
 2. Install required packages:
@@ -69,8 +69,6 @@ python particle_filter.py
 
 To generate a video recording of the simulation:
 
-```bash
-python particle_filter_with_video.py
 ```
 
 ## 🔧 Algorithm Details
@@ -188,9 +186,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Your Name - [Your Email](mailto:your.email@example.com)
+Syed Rafay Ali - [Your Email](mailto:syedrafayme143@gmail.com)
 
-Project Link: [https://github.com/yourusername/particle-filter-localization](https://github.com/yourusername/particle-filter-localization)
+Project Link: [https://github.com/syedrafayme143/Monte-Carlo-Localization-Particle-Filter](https://github.com/syedrafayme143/Monte-Carlo-Localization-Particle-Filter)
 
 ## 🙏 Acknowledgments
 
