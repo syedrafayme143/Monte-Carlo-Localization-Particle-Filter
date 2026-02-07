@@ -67,10 +67,6 @@ Run the particle filter simulation:
 python particle_filter.py
 ```
 
-To generate a video recording of the simulation:
-
-```
-
 ## 🔧 Algorithm Details
 
 ### Particle Filter Steps
@@ -186,7 +182,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Syed Rafay Ali - [Your Email](mailto:syedrafayme143@gmail.com)
+Syed Rafay Ali - (mailto:syedrafayme143@gmail.com)
 
 Project Link: [https://github.com/syedrafayme143/Monte-Carlo-Localization-Particle-Filter](https://github.com/syedrafayme143/Monte-Carlo-Localization-Particle-Filter)
 
